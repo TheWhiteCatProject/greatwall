@@ -7,7 +7,7 @@
 include ../Makefile.conf
 
 PACKAGE = bash
-VERSION = 4.1
+VERSION = 4.4
 
 BASE_URL = ftp://ftp.gnu.org/gnu/bash/
 
