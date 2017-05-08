@@ -7,7 +7,7 @@
 include ../Makefile.conf
 
 PACKAGE = acpica
-VERSION = unix2-20140325
+VERSION = unix-20170303
 
 BASE_URL = https://acpica.org/sites/acpica/files/
 
