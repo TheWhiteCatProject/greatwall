@@ -7,7 +7,7 @@
 include ../Makefile.conf
 
 PACKAGE = apcupsd
-VERSION = 3.14.12
+VERSION = 3.14.14
 
 BASE_URL = http://downloads.sourceforge.net/project/$(PACKAGE)/$(PACKAGE)%20-%20Stable/$(VERSION)
 
